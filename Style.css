@@ -6,7 +6,10 @@
     float: right;
     text-align: right;
 }
-
+.hright a:hover{
+    color: #900;
+    border: #333;
+}
 .gNav {
     clear: both;
     border: solid 1px;
