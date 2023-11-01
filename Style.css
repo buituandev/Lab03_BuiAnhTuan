@@ -18,6 +18,9 @@
     border-right: solid 1px #333;
     padding: 0 5px;
 }
+.hbutton li:last-child {
+    border-right: none;
+}
 .hbutton li a{
     text-decoration: none;
     color: #cf682d;
